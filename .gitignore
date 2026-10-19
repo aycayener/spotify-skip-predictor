@@ -1,0 +1,10 @@
+# Python geçici dosyaları
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+
+# Kişisel Spotify Verileri (GitHub'a yüklenmemesi için)
+data/raw/*.json
+data/processed/listens.parquet

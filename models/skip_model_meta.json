@@ -1,0 +1,19 @@
+{
+  "num_cols": [
+    "hour",
+    "dayofweek",
+    "play_minutes",
+    "session_pos",
+    "session_size",
+    "is_shuffle",
+    "is_offline"
+  ],
+  "cat_cols": [
+    "part_of_day",
+    "platform",
+    "reason_start",
+    "reason_end",
+    "conn_country",
+    "content_type"
+  ]
+}
